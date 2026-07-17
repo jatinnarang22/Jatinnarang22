@@ -43,13 +43,6 @@ Multithreaded Python pipeline processing logs from 800+ distributed consoles in 
 **Tactic Money** — Full Stack Developer Intern · *Sep 2023 – Nov 2023*
 Scalable Node.js REST APIs for financial transaction workflows and a React.js/Redux frontend, improving mobile user retention by 45%.
 
-## 🚀 Featured Projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| **[ScanOS — Scan Slot Scheduler](https://github.com/jatinnarang22/scanos)** | Django + DRF, Next.js, TypeScript | Day-view scheduling board for a diagnostic imaging fleet; overlap-safe booking with `select_for_update()`, tested boundary logic. |
-| **[Instagram Clone — Full Stack MERN](https://github.com/jatinnarang22/Instagram-clone)** | React, Redux, Node.js, MongoDB, JWT, Cloudinary | JWT authentication, MongoDB aggregation pipelines, compound indexing, Cloudinary image uploads. |
-| **[MovieU](https://github.com/jatinnarang22/MovieU)** — [Live](https://movieu.netlify.app) | React.js, TMDB API | Responsive frontend with pagination, response caching, lazy loading, and graceful error fallback UI. |
 
 **Multi-Platform Ad Analytics Engine** — Node.js, Express.js, Vue.js, MongoDB, GA4, DV360, Meta Ads API, LinkedIn API. Full-stack analytics engine aggregating live data from 4 ad platforms into a normalized MongoDB store with batching, retry logic, and cron-scheduled nightly sync, exposed via a versioned REST API.
 
